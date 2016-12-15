@@ -1,11 +1,36 @@
-# misc-java-projs/reactor
+# reactor
 
-The reactor is a personal programming project developed by
-[Rubens](http://www.rubens-gomes.com) to be used as part of
-another project: HTTP Server.
+A Java implementation of the Reactor/Aceptor design patterns used for networking connections.   This is a personal programming project developed by
+[Rubens](http://www.rubens-gomes.com).
 
-This is an implementation of the Reactor and Acceptor 
-design patterns using the Java progreamming language. 
+## Installation
+
+- Download and install Apache Maven from:
+```
+    https://maven.apache.org/
+```
+- Clone the project from my GitHub:
+```
+    https://github.com/rubensgomes/reactor.git
+```
+## Build, Test and Deploy
+
+- To set up an eclipse project:
+```
+    mvn -U eclipse:eclipse
+```
+- To run a java build:
+```
+    mvn -U install
+```
+- To run tests:
+```
+    mvn test
+```
+- To deploy build:
+```
+    mvn deploy
+```
 
 # references
 
