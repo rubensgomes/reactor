@@ -1,7 +1,9 @@
-# reactor
+# Justification for this project
 
-A Java implementation of the Reactor/Aceptor design patterns used for networking connections.   This is a personal programming project developed by
-[Rubens](http://www.rubens-gomes.com).
+NOTE:  This code is not fully tested, and should be considered under  development code.
+
+A Java implementation of the Socket Reactor/Aceptor design patterns used
+for networking connections.   I wrote this project as a fun learning exercise.
 
 ## Installation
 
