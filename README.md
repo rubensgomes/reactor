@@ -1,6 +1,7 @@
 # Justification for this project
 
 NOTE:  This code is not fully tested, and should be considered under  development code.
+The source code that is provided are  mainly used for demonostrations and learning purposes only.
 
 A Java implementation of the Socket Reactor/Aceptor design patterns used
 for networking connections.   I wrote this project as a fun learning exercise.
